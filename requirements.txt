@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+matplotlib
+xlrd
+# conda install shapely
+# pip install git+https://github.com/bayer-science-for-a-better-life/paquo.git
